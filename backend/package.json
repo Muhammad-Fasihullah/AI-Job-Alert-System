@@ -1,0 +1,39 @@
+{
+  "name": "job-alert-system",
+  "version": "1.0.0",
+  "description": "AI-powered job alert engine — scrapes Fiverr, Upwork, LinkedIn and sends smart alerts",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "scrape": "node src/scripts/runScrape.js",
+    "test:email": "node src/scripts/testEmail.js"
+  },
+  "keywords": [
+    "job-alerts",
+    "scraping",
+    "gemini",
+    "ai"
+  ],
+  "author": "MALIK",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "apify-client": "^2.23.3",
+    "axios": "^1.16.0",
+    "better-sqlite3": "^12.9.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "https-proxy-agent": "^9.0.0",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.7",
+    "puppeteer": "^24.43.1",
+    "puppeteer-core": "^24.43.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "rss-parser": "^3.13.0"
+  }
+}

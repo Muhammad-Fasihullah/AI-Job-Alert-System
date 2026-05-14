@@ -1,0 +1,31 @@
+{
+  "keywords": [
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "web scraping",
+    "API development",
+    "REST API",
+    "full stack",
+    "MongoDB",
+    "PostgreSQL",
+    "AI integration",
+    "chatbot",
+    "automation",
+    "Puppeteer",
+    "frontend development",
+    "backend development",
+    "web application"
+  ],
+  "minBudget": 30,
+  "maxBudget": 10000,
+  "platforms": ["upwork", "linkedin"],
+  "alertThreshold": 7,
+  "upworkRssUrl": "",
+  "maxResultsPerPlatform": 20,
+  "description": "Full-stack developer specializing in React, Next.js, Node.js, and Python. Experienced with web scraping, AI/ML integration, REST APIs, database design, and building modern web applications. Strong skills in automation, chatbot development, and frontend/backend systems."
+}
