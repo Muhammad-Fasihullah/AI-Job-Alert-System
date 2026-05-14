@@ -15,15 +15,14 @@ An intelligent, full-stack automation system that aggregates freelance job posti
 
 ---
 
-## 📸 System Preview
-
-| 📊 Live Match Feed | 🧠 AI Analysis View |
+| 📊 Live Match Feed | 🚀 Job Tracking |
 | :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Analysis](screenshots/analysis.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![Tracking](screenshots/tracking.png) |
 
-| 📧 Instant Email Alerts |
+| ⚙️ AI Profile & Settings |
 | :---: |
-| ![Email](screenshots/email.png) |
+| ![Settings](screenshots/settings.png) |
+
 
 ---
 
