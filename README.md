@@ -19,9 +19,10 @@ An intelligent, full-stack automation system that aggregates freelance job posti
 | :---: | :---: |
 | ![Dashboard](screenshots/dashboard.png) | ![Tracking](screenshots/tracking.png) |
 
-| ⚙️ AI Profile & Settings |
-| :---: |
-| ![Settings](screenshots/settings.png) |
+| ⚙️ AI Profile & Settings | 📧 Real Email Alerts |
+| :---: | :---: |
+| ![Settings](screenshots/settings.png) | ![Email](screenshots/email.jpg) |
+
 
 
 ---
